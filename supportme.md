@@ -1,6 +1,6 @@
 
 🤖 SUPPORT PULSEBOT
-
+-----------------------
 Hello!
 
 Thank you for using PulseBOT.
